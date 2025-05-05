@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20130704</pubdate>
+                <title>Business Improvement Districts</title>
+                <geoform>vector digital data</geoform>
+                <lworkcit>
+                    <citeinfo>
+                        <title>DC Geographic Information System</title>
+                    </citeinfo>
+                </lworkcit>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Business Improvement Districts (BID). The dataset contains locations and attributes of the BID jurisdictions (Downtown, Golden Triangle, Mt. Vernon Triangle, Adams Morgan, Georgetown, and NoMa), first authorized under the Business Improvement Districts Act of 1996. This layer also contains the Mt. Vernon Community Improvement District (CID). Jurisdictions were identified from public records (websites, legacy GIS data, real property records).</abstract>
+            <purpose>This data is used for the planning and management of Washington, D.C. by local government agencies.</purpose>
+            <supplinf>Establishment of BIDs in Washington has been a top economic development priority for the city and private sector since 1996 when the Council, Mayor and business community worked together to pass the Business Improvement Districts Act of 1996. http://www.downtowndc.org/About/bid.html DISTRICT OF COLUMBIA OFFICIAL CODE 2001 EDITION DIVISION I. GOVERNMENT OF DISTRICT. TITLE 2. GOVERNMENT ADMINISTRATION. CHAPTER 12. BUSINESS AND ECONOMIC DEVELOPMENT. SUBCHAPTER VIII. BUSINESS IMPROVEMENT DISTRICTS. Law 11-134, the "Business Improvement Districts Act of 1996," was introduced in Council and Assigned Bill No. 11-464, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on February 6, 1996, and March 5, 1996, respectively. Signed by the Mayor on March 25, 1996, it was assigned Act No. 11-242 and transmitted to both Houses of Congress for its review. D.C. Law 11-134 became effective on May 29, 1996. Law 12-23, the "Business Improvement Districts Temporary Amendment Act of 1997," was introduced in Council and assigned Bill No. 12-230. The Bill was adopted on first and second readings on May 20, 1997, and June 3, 1997, respectively. Signed by the Mayor on June 18, 1997, it was assigned Act No. 12-100 and transmitted to both Houses of Congress for its review. D.C. Law 12- 23 became effective on September 23, 1997. Law 12-26, the "Business Improvement Districts Amendment Act of 1997," was introduced in Council and assigned Bill No. 12-225, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on June 3, 1997, and June 17, 1997, respectively. Signed by the Mayor on July 3, 1997, it was assigned Act No. 12-109 and transmitted to both Houses of Congress for its review. D.C. Law 12-26 became effective on October 8, 1997.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20130704</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-180.000000</westbc>
+                <eastbc>180.000000</eastbc>
+                <northbc>38.966736</northbc>
+                <southbc>-69.994444</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Special Taxing Area</themekey>
+                <themekey>Business Improvement District</themekey>
+                <themekey>Mt. Vernon Triangle</themekey>
+                <themekey>economy</themekey>
+                <themekey>Golden Triangle</themekey>
+                <themekey>Georgetown</themekey>
+                <themekey>Special Jurisdiction</themekey>
+                <themekey>Adams Morgan</themekey>
+                <themekey>Downtown</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>economy</themekey>
+                <themekey>society</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>District of Columbia</placekey>
+                <placekey>DCGIS</placekey>
+                <placekey>DC GIS</placekey>
+                <placekey>DC</placekey>
+                <placekey>Washington</placekey>
+                <placekey>D.C.</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Deputy Mayor for Planning and Economic Development</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <address>1350 Pennsylvania Avenue, NW, Suite 317</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20004</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-6365</cntvoice>
+                <cntfax>(202) 727-6703</cntfax>
+                <hours>8:30 am to 5:30 pm</hours>
+            </cntinfo>
+        </ptcontac>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                </cntorgp>
+                <cntpos>GIS Data Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntfax>(202) 727-6857</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </ptcontac>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                </cntorgp>
+                <cntpos>GIS Data Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntfax>(202) 727-6857</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Office of the Deputy Mayor for Planning and Economic Development</datacred>
+        <native>Esri ArcGIS 13.1.3.41833</native>
+    </idinfo>
+    <dataqual>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20010101</pubdate>
+                        <title>Golden Triangle BID website</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>onLine</typesrc>
+                <srccitea>Golden Triangle BID website</srccitea>
+                <srccontr>boundaries and attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <typesrc>onLine</typesrc>
+                <srccontr>boundary and attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20040101</pubdate>
+                        <title>Brazil Bulletin</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>None</typesrc>
+                <srccitea>Brazil Bulletin</srccitea>
+                <srccontr>location and attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20010101</pubdate>
+                        <title>Georgetown Partnership website</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>onLine</typesrc>
+                <srccitea>Georgetown Partnership website</srccitea>
+                <srccontr>attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20010101</pubdate>
+                        <title>Downtown BID website</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>onLine</typesrc>
+                <srccitea>Downtown BID website</srccitea>
+                <srccontr>boundaries and attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20060101</pubdate>
+                        <title>Map and Legislation on Adams Morgan Business Improvement District</title>
+                    </citeinfo>
+                </srccite>
+                <typesrc>None</typesrc>
+                <srccitea>Map and Legislation on Adams Morgan Business Improvement District</srccitea>
+                <srccontr>boundaries and attributes</srccontr>
+            </srcinfo>
+            <srcinfo>
+                <typesrc>None</typesrc>
+                <srccontr>location and attributes</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>Capitol Hill BID development: The DC Office of Planning created the Capitol Hill Business Improvement District (CHBID) by head's up digitizing the BID boundaries. This boundary is based on the legislation, DC Code ? 2-1215.04, the Establishment of Business Improvement District. OCTO GIS base map planimetrics were used as a guide, but the linework is not snapped to the snapbase. OCTO GIS staff populated appropriate attribution for consistency. Note that there is an overlap between the Downtown BID and Capitol Hill BID.</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>OCTO GIS staff generated the boundary for the Mount Vernon CID based off of text description in 'The Brazil Bulletin'. OCTO GIS base map planimetrics were used as a guide, but the linework is not snapped to the snapbase. Instead, it is snapped along key common points. Then staff populated the appropriate attribution for consistency in the BID layer.</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>Staff created the NoMa BID boundaries based on a description and consultation with Barry Margeson, from the DC Executive Office of mayor. Using street centerlines, planimetric buildings, and the 2005 orthophoto, staff digitized the boundaries for the BID.</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>Staff created the Adams Morgan BID boundaries based on a source map and the legislation provided by Josh Gibson of the Adams Morgan Partnership. Using street centerlines, vector property lines (record and tax lots), and planimetric buildings, staff digitized the boundaries for the BID.</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>Merged the two Downtown BID polygons into one polygon. There should only be one Downtown BID polygon, per their website, www.downtowndc.org</procdesc>
+            </procstep>
+            <procstep>
+                <procdesc>Jurisdictions were identified from public records (the three individual websites, legacy GIS data, real property records) and heads-up digitized from the 1995 orthophotographs. Downtown DC BID provided information for Golden Triangle BID. A base ArcInfo coverage of correct line work (snapbase.e00) for all DC data was developed after the final delivery of the planimetric street centerlines. The datasets were selected from the snapbase coverage, creating coincident geography with the other DC GIS datasets. When imported into the DC GIS geodatabase the coverages shift 0.01mm since the geodatabase supports only 11 digits of precision, not double precision (16 digits). An initial shapefile for each BID was compared to the snapbase linework and a coverage of the correct linework selected out, creating a topologically correct feature. This was built into a polygon. Georgetown Partnership BID was created by selecting non-residentially zoned real property owner points to start. Residentially zoned properties are not included in the Georgetown BID. The properties corresponding to these were outlined. This leaves an irregular coverage with holes for those excepted properties. Attribute data was provided by public records and verified against the BID websites and personal interview. Planimetrics were created at a scale of 1:1,000. This means that a well defined feature falls within two feet of true position. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters.</procdesc>
+                <procdate>20010806</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updated the Golden Triangle BID based on input from BID staff.</procdesc>
+                <procdate>20130704</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Staff updated the Dupont Circle BID based on input from BID staff.</procdesc>
+                <procdate>20180412</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Staff updated the Golden Triangle BID based on input from BID staff.</procdesc>
+                <procdate>20180727</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Staff edited Dupont Circle BID.</procdesc>
+                <procdate>20181026</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Staff updated Dupont Circle BID boundaries.</procdesc>
+                <procdate>20181130</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Staff updated Anacostia boundary</procdesc>
+                <procdate>20190614</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>added the property at 1615 Rhode Island Ave NW to the Golden Triangle</procdesc>
+                <procdate>20190809</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>added 1771 N St NW and 1200 16th St NW and removed 2000 N St NW.</procdesc>
+                <procdate>20190816</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Added Friendship Heights BID</procdesc>
+                <procdate>20240112</procdate>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>12</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>DCGIS.BIDPly</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GIS_ID</attrlabl>
+                <attrdef>OCTO GIS sequential identifier</attrdef>
+                <attrdefs>OCTO</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>Business Improvement District Name</attrdef>
+                <attrdefs>DSLBD</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>WEB_URL</attrlabl>
+                <attrdef>Business Improvement District web link</attrdef>
+                <attrdefs>DSLBD</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>GLOBALID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>CREATOR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>CREATED</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>EDITOR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>EDITED</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE.AREA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE.LEN</attrlabl>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                </cntorgp>
+                <cntpos>GIS Data Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntfax>(202) 727-6857</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <custom>DC datasets can be downloaded from "http://opendata.dc.gov".</custom>
+    </distinfo>
+    <metainfo>
+        <metd>20240110</metd>
+        <metrd>01/07/04</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Office of the Chief Technology Officer</cntorg>
+                </cntorgp>
+                <cntpos>GIS Data Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>200 I Street SE, 5th Floor</address>
+                    <city>Washington</city>
+                    <state>DC</state>
+                    <postal>20003</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(202) 727-2277</cntvoice>
+                <cntfax>(202) 727-6857</cntfax>
+                <cntemail>dcgis@dc.gov</cntemail>
+                <hours>8:30 am - 5 pm</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
